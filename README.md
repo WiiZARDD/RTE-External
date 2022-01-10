@@ -1,6 +1,3 @@
-# RTE-External
-An External Auto Clicker for Badlion Client.
-
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
@@ -19,6 +16,8 @@ An External Auto Clicker for Badlion Client.
 
 <p align="center">
 An External Auto Clicker for Badlion Client
+<p align="center">
+(THIS BUILD HAS BEEN PATCHED. FOR THE UPDATED PRIVATE BUILD PLEASE CONTACT ME VIA XMPP)
 
 #  ‍ 	
 		
